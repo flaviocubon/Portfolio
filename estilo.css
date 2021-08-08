@@ -1,0 +1,31 @@
+body {
+    background-image: url(fondo.jpg);
+    background-size: cover;
+
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    border-style: inset;
+    border-color: black;
+}
+
+h1 {
+    border-style:outset;
+    border-image: inherit;
+    border-radius: 15px;
+    background-color: rgb(3, 39, 80);
+    text-align: center;
+    color: lightblue
+}
+
+h2 {
+    color: rgb(11, 58, 73);
+    background-color: grey;
+}
+p {
+    background-size: cover;
+    font-size: 20px;
+    color: rgb(64, 81, 238)
+}
